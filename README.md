@@ -5,7 +5,7 @@ This repository contains the source code for all the experiments in the followin
 
 </br>
 <p align="center">
-  <img src="https://github.com/AtoosaParsa/AdaptiveForceChains/blob/main/overview.pdf"  width="600">
+  <img src="https://github.com/AtoosaParsa/AdaptiveForceChains/blob/main/overview.png"  width="600">
 </p>
 </br>
 </br>
