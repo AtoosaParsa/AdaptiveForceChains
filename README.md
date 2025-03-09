@@ -11,6 +11,3 @@ This repository contains the source code for all the experiments in the followin
 </br>
 
 - [Watch a video summary here!](https://www.youtube.com/watch?v=YZ45mljl150).
-## Feasibility Check: maximizing force on a single particle
-
-## Complex Cases: maximizing forces on multiple particles
